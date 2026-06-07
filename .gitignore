@@ -4,3 +4,4 @@ env
 .env
 tempory.pdf
 chroma_db/
+*.db
