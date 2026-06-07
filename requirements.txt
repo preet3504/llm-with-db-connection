@@ -1,7 +1,8 @@
-# langchain
-# langchain-core
-# langchain-community
-# python-dotenv
-# streamlit
-# ddgs
-# langchain-groq
+langchain
+langchain-core
+langchain-community
+python-dotenv
+streamlit
+langchain-groq
+sqlalchemy
+pymysql
